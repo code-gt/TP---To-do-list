@@ -1,5 +1,7 @@
 # TP - To-Do List interactive avec Tailwind CSS et JavaScript
 
+![image](https://github.com/code-gt/TP---To-do-list/assets/120173004/20e9c58c-f629-4b2f-9c25-4b1c0676302c)
+
 ## **Objectif** :
 
 - Créer un site web interactif permettant de gérer vos tâches (to-do list).
